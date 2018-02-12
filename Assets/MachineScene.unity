@@ -922,11 +922,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -104.09
+      value: -108.7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -38.948364
+      value: -38.2
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
       propertyPath: m_LocalPosition.z
@@ -951,6 +951,18 @@ Prefab:
     - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 17.789053
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.3107424
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 17.78906
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0c81207156c2ad41ac3071624661a57, type: 3}
@@ -2509,13 +2521,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1087933177}
-  m_LocalRotation: {x: -0, y: -0.18772855, z: -0, w: 0.98222095}
-  m_LocalPosition: {x: -159, y: -38.370003, z: 120.3}
+  m_LocalRotation: {x: -0, y: 0.27856037, z: -0, w: 0.9604187}
+  m_LocalPosition: {x: -161.8, y: -38.370003, z: 118.5}
   m_LocalScale: {x: 2.1606944, y: 2.1606932, z: 4.2552137}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: -21.640001, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 32.349003, z: 0}
 --- !u!59 &1087933182
 HingeJoint:
   m_ObjectHideFlags: 0
@@ -2526,7 +2538,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -31.071075, y: -3.6777108, z: -7.0811667}
+  m_ConnectedAnchor: {x: -33.12294, y: -3.6777108, z: -9.170695}
   m_UseSpring: 0
   m_Spring:
     spring: 0
